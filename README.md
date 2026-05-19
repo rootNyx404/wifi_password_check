@@ -70,8 +70,8 @@ wifi-password-viewer/
 ## 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/wifi-password-viewer.git
-cd wifi-password-viewer
+https://github.com/rootNyx404/wifi_password_check.git
+cd wifi_password_check
 ```
 
 ---
@@ -112,15 +112,30 @@ CyberWorld ethical security guidance emphasizes legal and authorized usage only.
 
 ---
 
-# 📜 License
+# 🌐 Official Websites
 
-This project is licensed under the MIT License.
+- 🌍 https://mycyberworld.online
+
+# 🚀 Portfolio
+
+- 🌍 https://arupdark.online
 
 ---
 
 # 👨‍💻 Author
 
-## ❤️ Developed by CyberWorld
+## ❤️ Developed by Arup Halder
+
+### 🔗 GitHub
+- 🐙 https://github.com/rootNyx404
+
+---
+
+# 📜 License
+
+This project is licensed under the MIT License.
+
+---
 
 <p align="center">
   ⭐ Star this repository if you found it useful!
