@@ -48,7 +48,7 @@ This project is intended for:
 # 📂 Project Structure
 
 ```bash
-wifi-password-viewer/
+wifi_password_check/
 │
 ├── wifi_passwords.py
 ├── README.md
